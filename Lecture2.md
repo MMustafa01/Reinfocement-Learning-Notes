@@ -38,7 +38,17 @@ $\pi:S\rightarrow A$
 Markov Property: The Markov property means that evolution of the Markov process in the future depends only on the present state and does not depend on past history.
 
 
+The policy may be deterministic or stochastic policy:
+1.  $\epsilon-Greedy$ is a stochastic policy.-----> We have to decide a probability distribution \
+    1.   $\pi(S_t)\sim p(a)$
+     
+
+
 There is a learning algorithm running in the agent. 
+
+
+## Dynamic Programming
+1.  Memoization 
 
 ### Thinking Time:
     Why is the markov property is relevant here?  
